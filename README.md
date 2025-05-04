@@ -1,2 +1,2 @@
 # example-data
-Data for AI/ML.
+Various data gathered for AI/ML work.
